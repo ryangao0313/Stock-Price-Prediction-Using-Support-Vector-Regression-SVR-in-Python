@@ -40,10 +40,6 @@ python stock_price_prediction.py
 The script will display a plot showing the historical data and the predictions made by the three SVR models. The predicted prices will also be printed to the console.
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - This project is inspired by the concept of using SVR for stock price prediction.
