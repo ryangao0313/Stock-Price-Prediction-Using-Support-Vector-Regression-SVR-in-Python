@@ -23,7 +23,6 @@ pip install numpy scikit-learn matplotlib
 
 3. Open the script and set the desired date for prediction by modifying the `predicted_price` variable. For example:
 
-```python
 predicted_price = predict_price(dates, prices, 29)
 
 Replace 29 with the date for which you want to predict the stock price.
